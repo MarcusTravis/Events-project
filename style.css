@@ -1,0 +1,172 @@
+body, html{
+    height: 100%;
+    margin: 0;
+    background-attachment: fixed;
+    background-image: url(https://images.unsplash.com/photo-1514525253161-7a46d19cd819?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+  }   
+    
+   
+
+main {
+    padding-bottom: 40px;
+}
+
+ 
+nav{
+    background-color: black;
+    opacity: .7;
+}    
+   
+.modal {
+    border-radius: 10px;
+}
+
+
+h2{
+    margin-top: 0px;
+    font-family: 'Varela Round', sans-serif;
+}
+
+.btn-floating{
+    background-color: rgb(245, 236, 115);
+}
+
+.input{
+    flex:1;
+    margin-top: 25px;
+    border-top-width: 5px;
+    border-bottom-width: 7px;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.materials-icon{
+    background-color: teal;
+    color: black;
+} 
+    
+.ftr {
+    background-color: black;
+    opacity: .5; 
+    position: fixed; 
+    bottom: 0; 
+    color: white; 
+    height: 3rem; 
+    width: 100%; 
+    text-align: center; 
+    padding-top: 0;
+}    
+
+.leftCol {
+    background-image: url(https://media3.giphy.com/media/1kTUjHlD4SVf2lut1u/giphy.gif?cid=ecf05e47e82602752946d5c0a355aad3d978d72377fe3ee3&rid=giphy.gif);
+    opacity: .7;
+    margin: 0;
+    border-radius: 10px;
+    padding: 3rem;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0;
+    padding-left: 0px;
+    padding-right: 0px;  
+    
+}    
+    
+    
+    
+.rightCol{
+    height: auto; 
+    background-image: black;
+    /* background-image: linear-gradient(to right, rgb(87, 240, 1), teal , rgb(38, 23, 247));   */
+    opacity: .7;
+    margin: 3rem;
+    border-radius: 10px;
+    padding: 3rem;
+    margin-top: 30px;
+    margin-right: 0px;
+    margin-bottom: 60px;
+    padding-left: 0px;
+    padding-right: 0px;
+     
+}    
+
+.pulse2{
+    background-color: rgb(245, 236, 115);
+    color: #000000;
+} 
+
+.inputDiv {
+    margin-top: 0px;
+    margin-bottom: 25px;
+}
+
+.input {
+    border-radius: 10px;
+    font-size: 24px;
+    font-weight: bold;
+    padding-left: 1rem;
+    width: 100%;
+}
+
+    
+.card{
+    border-radius: 10px;
+    margin-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.mainCol{
+    height: auto; 
+    background-color: black;
+    opacity: .7;
+    margin: 3rem;
+    border-radius: 10px;
+    padding: 3rem;
+    margin-top: 30px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    padding-left: 60px;
+    padding-right: 60px;
+    
+}    
+
+.font-size {
+    font-family: 'Varela Round', sans-serif;
+    font-size: 45px;
+    color: white;
+}
+
+.card-panel{
+    background-color: black;
+}
+
+.white-text{
+    font-size: 35px;
+}
+
+.x {
+    margin: 6px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.close-button {
+    border-radius: 10px;
+}
+
+para2 {
+    margin-bottom: 20px;
+}
+
+.leftColMargin{
+    margin-top: 15px;
+}
+
+.hidden{
+    display: none;
+}
